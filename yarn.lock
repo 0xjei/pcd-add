@@ -547,7 +547,7 @@
     typescript "^4.9.5"
     uuid "^9.0.0"
 
-"@pcd/semaphore-identity-pcd@0.6.1", "@pcd/semaphore-identity-pcd@^0.6.1":
+"@pcd/semaphore-identity-pcd@0.6.1":
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/@pcd/semaphore-identity-pcd/-/semaphore-identity-pcd-0.6.1.tgz#04eaaa3b283bde5af8a8d476d3c8b4da3e626beb"
   integrity sha512-NA9pf9oXVoymlVOhI+F6oi+epuon0XYAFx2J+OmVDfzann/asYgbtu/3Ai/RGXMrBSj2toB9MzvhI+OkSM8yBw==
@@ -562,7 +562,7 @@
     styled-components "^5.3.9"
     uuid "^9.0.0"
 
-"@pcd/semaphore-signature-pcd@0.6.1", "@pcd/semaphore-signature-pcd@^0.6.1":
+"@pcd/semaphore-signature-pcd@0.6.1":
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/@pcd/semaphore-signature-pcd/-/semaphore-signature-pcd-0.6.1.tgz#6dc1f8ce291cad36d9e11f426cbd8865c372da57"
   integrity sha512-xtjCqRdoSR4II7i/XhJYFefk2pnBoIKV6qsJ1DOVE2veRvFDZd6dsDhbLebcCcZ7aygWtiAm+K9v0LTPUWauKg==

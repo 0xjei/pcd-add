@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
     title: "Add your PCD",
-    description: "Add your PCD to the PCDPass."
+    description: "Add your PCD to PCDPass."
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
